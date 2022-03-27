@@ -1,5 +1,5 @@
 
-[![Linkedin: Shivam Jaiswal](https://img.shields.io/badge/-Shivam_Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamjaiswal64/)](https://www.linkedin.com/in/andreas-karabetian/) <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" />
+[![Linkedin: Shivam Jaiswal](https://img.shields.io/badge/-Shivam_Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamjaiswal64/)](https://www.linkedin.com/in/shivamjaiswal64) <img src="https://komarev.com/ghpvc/?username=shivamjaiswal64&color=yellow" alt="shivamjaiswal64" />
  
 
 ![me](https://github.com/shivamjaiswal64/shivamjaiswal64/blob/master/resources/1.jpg?raw=true)
